@@ -298,7 +298,6 @@ Her safehand was still exposed.  Sleek, with tan skin, the fingers long and deli
 
 ### {Whore} -> {Kaladin}
 ## 33: Invalid use of the word blush. 
-
 ## 34. Sentence 23442 of The Way of Kings: 
 
 “I am sorry, Shallan Davar.  In overworking you, I may have done the world a disservice and stolen from it one of the great scholars of the rising generation. ”
@@ -513,41 +512,16 @@ Shallan barely caught it.  She blushed at her clumsiness, then held it up toward
 
 ### {Shallan} -> {Tyn}
 ## 59. Invalid context. 
-
-## 60. Sentence 11702 of Words of Radiance: 
-
-Shallan breathed in the wonderful humidity as the plants relaxed.  Rockbud petals stretching out, timid leaves unfolding.  Color swelled around her like nature blushing. 
-
-
+## 60. Wrong use of blushing.
 ## 61. Sentence 11796 of Words of Radiance: 
 
 “You’d still be yourself.  Your jokes would merely be dirtier. ”
 
 “Lovely,” Shallan said, blushing. 
 
-
-## 62. Sentence 11797 of Words of Radiance: 
-
-“You’d still be yourself.  Your jokes would merely be dirtier. ”
-
-“Lovely,” Shallan said, blushing. 
-
-She thought the blush might make Tyn laugh, but instead the woman became thoughtful. 
-
-
-## 63. Sentence 11813 of Words of Radiance: 
-
-You’re going to be in situations that you’ve never been in before. ”
-
-“You barely know me,” Shallan said.  “How can you be so certain I’ve never done things like this?”
-
-“Because you aren’t broken,” Tyn said, expression distant. 
-
-“Perhaps I’m faking. ”
-
-“Kid,” Tyn said, “you draw pictures of criminals to turn them into heroes.  You dance around in flower patches with a sketchpad, and you blush at the mere hint of something racy. 
-
-
+### {Shallan} -> {Tyn}
+## 62. Repeated use. 
+## 63. Repeated again. 
 ## 64. Sentence 11964 of Words of Radiance: 
 
 “I heard the replacement hit. ”
@@ -558,39 +532,29 @@ You’re going to be in situations that you’ve never been in before. ”
 
 “It’s a curse,” Shallan said, blushing. 
 
-
+### {Shallan} -> {Tyn}
 ## 65. Sentence 11988 of Words of Radiance: 
 
 “West of Marat, almost all women go out with both hands uncovered.  If you’re going to go to those places and not stand out, you’ll have to be able to do as they do. ”
 
 “It’s immodest!” Shallan said, blushing furiously. 
 
-
+### {Shallan} -> {Tyn}
 ## 66. Sentence 11997 of Words of Radiance: 
 
 Nobody minds.  I rather like it, myself. ”
 
 Shallan raised both hands to her face—one clothed, one not—hiding her blush. 
 
-
-## 67. Sentence 12003 of Words of Radiance: 
-
-“You’re doing this just to provoke me. ”
-
-“Yeah,” Tyn said, chuckling.  “I am.  This is the girl that scammed an entire troop of deserters and took over our caravan?”
-
-“I didn’t have to go naked to do that. ”
-
-“Good thing you didn’t,” Tyn said.  “You still think you’re experienced and worldly? You blush at the mere mention of exposing your safehand. 
-
-
+### {Shallan} -> {Tyn}
+## 67. Repeated use. 
 ## 68. Sentence 12151 of Words of Radiance: 
 
 He almost fell from his chair.  Where was he? The Pinnacle, the king’s conference chamber.  Kaladin had sat down for a moment and…
 
 He blushed. 
 
-
+### {Kaladin} -> {Adolin}
 ## 69. Sentence 12804 of Words of Radiance: 
 
 If you want us dead, all you need to do is let them overhear this conversation. ”
@@ -601,7 +565,7 @@ If you want us dead, all you need to do is let them overhear this conversation. 
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Tyn}
 ## 70. Sentence 13608 of Words of Radiance: 
 
 “Why don’t you all go down and have them lower the platform? You can inspect the gemstones and see if any broke. ”
@@ -612,17 +576,17 @@ The others heard it as a dismissal and went down the steps in an excited bunch, 
 
 Rushu finally blushed, then bobbed a bow and hastened away. 
 
-
+### {Rushu} -> {Navani}
 ## 71. Sentence 13674 of Words of Radiance: 
 
 They started down the wide steps together.  “Aunt,” he said.  “Have you been, uh, doing anything to encourage my father’s advances? Between you two, I mean. ” For a boy who spent half his life flirting with anything in a dress, he certainly did blush a lot when he said that. 
 
-
+### {Adolin} -> {Navani}
 ## 72. Sentence 14432 of Words of Radiance: 
 
 Looking at Adolin’s grin, however, she didn’t consider any of those advantages.  Her pains of speaking of Jasnah didn’t fade completely, but she found it much easier to ignore them when looking at him.  She found herself blushing. 
 
-
+### {Shallan} -> {Adolin}
 ## 73. Sentence 14647 of Words of Radiance: 
 
 “She’s too young for you.  Though with you involved, I’m sure it would be brief. ”
@@ -631,7 +595,7 @@ Ruthar sputtered.  “I wasn’t implying… You moldy old… Bah!”
 
 Shallan was glad that attention then turned from her back to the topics at hand, because that last comment had her blushing. 
 
-
+### {Shallan} -> {Sebarial}
 ## 74. Sentence 15226 of Words of Radiance: 
 
 Well, do something with the girl. ” He walked inside. 
@@ -640,7 +604,7 @@ Palona beckoned Shallan up to join her.  “What really happened, child?”
 
 “He didn’t say anything untrue,” Shallan said, realizing that she was blushing. 
 
-
+### {Shallan} -> {Sebarial}
 ## 75. Sentence 15261 of Words of Radiance: 
 
 The lace, jewelry, and silk he’d given her in attempts to make her forget about… other times…
@@ -657,21 +621,21 @@ Shallan blinked, turning to Palona, who was speaking about something.
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Palona}
 ## 76. Sentence 15922 of Words of Radiance: 
 
 He explained it again, and she thought she grasped it, but the pattern was complex. 
 
 “A code,” Shallan said.  It made sense; you’d want a way to authenticate that the right person was on the other end of the spanreed.  She blushed as she realized she had almost ruined this opportunity. 
 
-
+### {Shallan} -> {No-one}
 ## 77. Sentence 16039 of Words of Radiance: 
 
 She felt naked with her hand exposed like that.  The trousers weren’t so bad—darkeyed women wore them when working the plantation back home, though she’d never seen a lighteyed lady in them.  But that glove…
 
 She shivered, noticing that her false face blushed when she did. 
 
-
+### {Shallan} -> {No-one}
 ## 78. Sentence 16116 of Words of Radiance: 
 
 But that was on the level of houses and estates, not the level of street vendors and working darkeyes. 
@@ -680,14 +644,14 @@ But that was on the level of houses and estates, not the level of street vendors
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Merchant}
 ## 79. Sentence 16307 of Words of Radiance: 
 
 The man… no, the woman—Shallan noticed the hint of breasts and shape of the torso.  The exposed safehand had thrown her. 
 
 Shallan stifled a blush. 
 
-
+### {Shallan} -> {Iyatil}
 ## 80. Sentence 17240 of Words of Radiance: 
 
 “Um… We need to find the gambling pavilion. ”
@@ -700,29 +664,21 @@ Shallan stifled a blush.
 
 She shrugged, blushing. 
 
-
+### {Shallan} -> {Jix}
 ## 81. Sentence 17261 of Words of Radiance: 
 
 The few women that Shallan saw had the fingers cut out of the gloves on their safehands.  Scandalous.  She found herself blushing as she stopped at the perimeter, looking in at the dark, shifting forms. 
 
-
-## 82. Sentence 18421 of Words of Radiance: 
-
-And you augment them.  Long hair.  Blush on the cheeks. 
-
-
+### {Shallan} -> {Gambling Women}
+## 82. Wrong use of the word. 
 ## 83. Sentence 18422 of Words of Radiance: 
 
 Long hair.  Blush on the cheeks.  I went and watched Sebarial bathe last night and—”
 
 “Please tell me you didn’t,” Shallan said, blushing as she grabbed some pasty soap from the jar beside the iron tub. 
 
-
-## 84. Sentence 18453 of Words of Radiance: 
-
-Somehow.  The novels she’d read made it seem easy.  A batting of eyelashes, blushes at appropriate times. 
-
-
+### {Shallan} -> {Pattern}
+## 84. Wrong context. 
 ## 85. Sentence 18598 of Words of Radiance: 
 
 .  No More Weakness
@@ -737,21 +693,21 @@ THREE YEARS AGO
 
 “My anatomy is off,” Shallan said with a blush. 
 
-
+### {Shallan} -> {Balat}
 ## 86. Sentence 18609 of Words of Radiance: 
 
 Father had once railed at him for that, claiming it was feminine and unseemly—but, in a rare show of dissension, Father’s ardents had approached him and told him to calm himself, and that the Almighty approved of Wikim’s interest.  They hoped Wikim might find his way into their ranks. 
 
 “I heard that you got another letter from Eylita,” Shallan said, trying to distract Balat from the sketchbook.  She couldn’t keep herself from blushing as he turned page after page. 
 
-
+### {Shallan} -> {Balat}
 ## 87. Sentence 18622 of Words of Radiance: 
 
 “I wouldn’t have figured that for the Tavinar girl.  She seems too proper. ”
 
 “No!” Balat blushed further. 
 
-
+### {Balat} -> {Wikim}
 ## 88. Sentence 18631 of Words of Radiance: 
 
 You are getting so touchy about that girl. ”
@@ -762,19 +718,19 @@ You are getting so touchy about that girl. ”
 
 She blushed. 
 
-
+### {Shallan} -> {Balat}
 ## 89. Sentence 18675 of Words of Radiance: 
 
 Wikim, however, was rolling on the ground.  After a moment, Balat shook his head, and gave an agreeable chuckle.  For her own part, Shallan was blushing. 
 
-
+### {Shallan} -> {Balat}
 ## 90. Sentence 18679 of Words of Radiance: 
 
 It had also been improper. 
 
 She got a guilty thrill from it.  Balat looked embarrassed, and he blushed at the double meaning, collecting shamespren. 
 
-
+### {Balat} -> {Shallan}
 ## 91. Sentence 18865 of Words of Radiance: 
 
 “But he may not.  It is a gamble, and you do not strike me as the kind of man who gambles. ”
@@ -783,25 +739,13 @@ The man laughed.  “What makes you say that? Gambling is what brought me here!�
 
 “No,” she said, blushing at her tears. 
 
-
-## 92. Sentence 18990 of Words of Radiance: 
-
-“Sebarial only does what he feels he’s forced to. ”
-
-“I think he may surprise you,” Shallan said. 
-
-“Oh, he’s already done that on several occasions. ”
-
-“Really? When?”
-
-“Well,” Adolin said, sitting, “he once produced a very, um, loud and inappropriate noise at a meeting with the king…” Adolin smiled, shrugging as if embarrassed, but he didn’t blush as Shallan might have in a similar situation. 
-
-
+### {Shallan} -> {Taravangian's bastard}
+## 92. Wrong context. 
 ## 93. Sentence 19002 of Words of Radiance: 
 
 Adolin seemed perfectly at ease both with his station and those around him.  When he waved for the master-servant to bring him a list of wines, he smiled at the woman, though she was darkeyed.  That smile was enough to produce a blush even in a master-servant. 
 
-
+### {Master-servant} -> {Adolin}
 ## 94. Sentence 19117 of Words of Radiance: 
 
 “You’re out there on the battlefield, encased in metal like a crab in its shell.  What do you do if nature calls?”
@@ -810,19 +754,15 @@ Adolin seemed perfectly at ease both with his station and those around him.  Whe
 
 “Yay for originality!” Shallan said, though she blushed as she said it. 
 
-
-## 95. Sentence 19158 of Words of Radiance: 
-
-For the first time it seemed like something genuine—an emotion from him that wasn’t scripted or expected.  He pounded his fist on the table, then waved for more wine, wiping a tear from his eye.  The grin he gave her threatened to bring out another blush. 
-
-
+### {Shallan} -> {Adolin}
+## 95. Wrong context. 
 ## 96. Sentence 19245 of Words of Radiance: 
 
 “The gemhearts we get feed the people of the warcamps.  Without a constant flow of new stones of reasonable size, the Soulcasters will eventually crack the ones we have, and we won’t be able to support the armies here. ”
 
 “I’m not telling you to stop your hunts,” Shallan said, blushing. 
 
-
+### {Shallan} -> {Adolin}
 ## 97. Sentence 19334 of Words of Radiance: 
 
 “I’ve left you upset.  I’m not very good at this wooing thing. ”
@@ -831,7 +771,7 @@ For the first time it seemed like something genuine—an emotion from him that w
 
 Shallan covered another blush by ducking her head and digging into her satchel. 
 
-
+### {Shallan} -> {Adolin}
 ## 98. Sentence 19460 of Words of Radiance: 
 
 We could have spent that much longer out there. ”
@@ -844,7 +784,7 @@ Adolin regarded her with an incredulous expression.  “When you first realized 
 
 “I… yeah,” she said, blushing. 
 
-
+### {Shallan} -> {Adolin}
 ## 99. Sentence 21017 of Words of Radiance: 
 
 Against the Alethi. 
@@ -853,7 +793,7 @@ Mraize was studying her—watching her with unreadable eyes, long blowgun held l
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Mraize}
 ## 100. Sentence 21127 of Words of Radiance: 
 
 There should be ways to use this, yes indeed. ” He looked to her.  “What is your goal, child? I might have a place for you in my organization, if you prove reliable. ”
@@ -864,7 +804,7 @@ Mraize narrowed his eyes at Shallan.  “You killed her, didn’t you?”
 
 Oh, blast.  Shallan blushed immediately, of course. 
 
-
+### {Shallan} -> {Mraize}
 ## 101. Sentence 21502 of Words of Radiance: 
 
 Finally, Shallan released Wit and looked at the prince. 
@@ -879,26 +819,22 @@ Finally, Shallan released Wit and looked at the prince.
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Adolin}
 ## 102. Sentence 21589 of Words of Radiance: 
 
 What was it?
 
 Adolin turned back around and asked after her day.  Kaladin listened with half an ear, studying Shallan, trying to pick out any knives hidden on her person.  She blushed at something Adolin said, then laughed. 
 
-
-## 103. Sentence 21596 of Words of Radiance: 
-
-Her movements were calculated.  The way she laughed, the way she chose her words.  She would giggle and blush, but her eyes were always discerning, always watching. 
-
-
+### {Shallan} -> {Adolin}
+## 103. Wrong context. 
 ## 104. Sentence 21701 of Words of Radiance: 
 
 This is brilliant.  Thank you. ”
 
 She blushed, then packed away the notes in an envelope and handed it to him. 
 
-
+### {Shallan} -> {Adolin}
 ## 105. Sentence 23323 of Words of Radiance: 
 
 That’s where the viziers and everyone important will be reviewing applications.  In the Prime’s presence. ”
@@ -911,7 +847,7 @@ That’s where the viziers and everyone important will be reviewing applications
 
 “Well, it’s kind of strange,” Gawx said.  By the dim light of the cracked door, she could see him blushing, as if he knew how starvin’ odd this all was. 
 
-
+### {Gawx} -> {Lift}
 ## 106. Sentence 28002 of Words of Radiance: 
 
 He looked back at her, holding up a sphere.  “You aren’t going to demand I give you my boots again, are you?”
@@ -920,14 +856,14 @@ She raised a foot, revealing the military-style boots she wore underneath her dr
 
 “I wasn’t about to come out onto the Shattered Plains in slippers,” she said, blushing. 
 
-
+### {Shallan} -> {Kaladin}
 ## 107. Sentence 28710 of Words of Radiance: 
 
 Uniforms on, spears polished. ”
 
 “We wait on our own time, sir,” Teft said.  “Neither of us three are supposed to be anywhere else. ” He blushed as soon as he said it. 
 
-
+### {Teft} -> {Kaladin}
 ## 108. Sentence 28870 of Words of Radiance: 
 
 A weapon… Vibrations? Like sand on a plate? An earthquake that could break rock… Stone became sand, and at the blowing of the highstorms, the cracks full of sand were hollowed out. ”
@@ -940,14 +876,14 @@ Her eyes seemed eerily distant, and Kaladin didn’t understand half of what she
 
 She blushed deeply. 
 
-
+### {Shallan} -> {Kaladin}
 ## 109. Sentence 30369 of Words of Radiance: 
 
 “He held her at this point, and whispered some things I did not hear.  From there, they got very close and made some interesting noises.  I can reproduce—”
 
 “No,” Shallan said, blushing. 
 
-
+### {Shallan} -> {Pattern}
 ## 110. Sentence 30691 of Words of Radiance: 
 
 “For the past five years, I have eaten only a bowl of boiled tallew for each meal, with a piece of fruit on special occasions.  This will not tempt me. ”
@@ -960,21 +896,21 @@ She nodded.
 
 She blushed. 
 
-
+### {Pai} -> {Lhan}
 ## 111. Sentence 31976 of Words of Radiance: 
 
 Like the wind and rocks were. 
 
 Shallan completely missed what Adolin said next.  She blushed. 
 
-
+### {Shallan} -> {Adolin}
 ## 112. Sentence 32097 of Words of Radiance: 
 
 Navani leafed through them, reading by spherelight.  “The organization of these notes is… interesting. ”
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Navani}
 ## 113. Sentence 32176 of Words of Radiance: 
 
 I do not expect there to be anything dangerous on the other side, but he’ll undoubtedly want to send soldiers through first. ”
@@ -983,7 +919,7 @@ Navani raised an eyebrow at her.  “You’ve done a touch of thinking about thi
 
 Shallan nodded, blushing. 
 
-
+### {Shallan} -> {Navani}
 ## 114. Sentence 32367 of Words of Radiance: 
 
 Stormseat.  How did you do it?”
@@ -994,7 +930,7 @@ Stormseat.  How did you do it?”
 
 “I…” Shallan blushed. 
 
-
+### {Shallan} -> {Dalinar}
 ## 115. Sentence 32470 of Words of Radiance: 
 
 Sir, please don’t tell anyone about this.  For now, at least. ”
@@ -1003,14 +939,14 @@ Sir, please don’t tell anyone about this.  For now, at least. ”
 
 “Yes,” Shallan said, blushing in the darkness. 
 
-
+### {Shallan} -> {Dalinar}
 ## 116. Sentence 32836 of Words of Radiance: 
 
 Even with them having the terrain advantage, even if we have to assault rather than defend, we should handle that many with ease.  We have over thirty thousand. ”
 
 “This is what we came to do,” Dalinar said.  He looked at Shallan, who blushed at her forwardness earlier. 
 
-
+### {Shallan} -> {Dalinar}
 ## 117. Sentence 35898 of Words of Radiance: 
 
 One of the soldiers nearby cleared his throat.  “You certain you should be that close to the edge, Brightness Radiant?”
@@ -1019,7 +955,7 @@ She gave the man a droll look.  “I could survive that drop and stroll away, so
 
 “Um, yes, Brightness,” he said, blushing. 
 
-
+### {Soldier} -> {Shallan}
 ## 118. Sentence 36200 of Words of Radiance: 
 
 “Shallan.  You’re something greater than even a lighteyes. ”
@@ -1028,24 +964,20 @@ She gave the man a droll look.  “I could survive that drop and stroll away, so
 
 “What? No.  I mean…” He blushed. 
 
-
-## 119. Sentence 1150 of Oathbringer: 
-
-She wrapped her arms around him, pressing against his back, resting her head against his shoulder.  His eyes flickered down, and he noticed that she’d removed the glove from her safehand.  It was barely visible in the dark: slender, gorgeous fingers—delicate, with the nails painted a blushing red. 
-
-
+### {Adolin} -> {Shallan}
+## 119. Wrong use of word. 
 ## 120. Sentence 2774 of Oathbringer: 
 
 Renarin was standing right behind her.  She jumped, letting out a pathetic squeak.  Then she blushed furiously; she’d forgotten he was even with them. 
 
-
+### {Shallan} -> {Renarin}
 ## 121. Sentence 2972 of Oathbringer: 
 
 Sot raised the alarm, and that chased the creatures off.  They only left four sacks, which we moved. ”
 
 Kaladin took a crude wooden cudgel off the table next to the ardent.  The ardent glanced at him, then quickly looked back to her paper, blushing. 
 
-
+### {Ardent} -> {Kaladin}
 ## 122. Sentence 3140 of Oathbringer: 
 
 “He’s excited. ”
@@ -1062,7 +994,7 @@ Kaladin took a crude wooden cudgel off the table next to the ardent.  The ardent
 
 Renarin blushed, then nodded. 
 
-
+### {Renarin} -> {Adolin}
 ## 123. Sentence 3165 of Oathbringer: 
 
 Renarin glanced away. 
@@ -1071,14 +1003,8 @@ Renarin glanced away.
 
 Renarin blushed again. 
 
-
-## 124. Sentence 4260 of Oathbringer: 
-
-He saw her and stumbled, nearly dropping it all. 
-
-Shallan froze, then yelped and tucked her bare safehand behind her back.  Adolin didn’t even have the decency to blush at finding her practically naked. 
-
-
+### {Renarin} -> {Adolin}
+## 124. Wrong context. 
 ## 125. Sentence 4264 of Oathbringer: 
 
 Adolin didn’t even have the decency to blush at finding her practically naked.  He balanced the food in his hand, recovering from his stumble, and then grinned. 
@@ -1087,7 +1013,7 @@ Adolin didn’t even have the decency to blush at finding her practically naked.
 
 He backed away awkwardly, through the draped cloth over the doorway.  Stormfather! Shallan’s blush was probably so bright they could have used her as a signal to send the army to war. 
 
-
+### {Shallan} -> {Adolin}
 ## 126. Sentence 4325 of Oathbringer: 
 
 “No chairs yet. ”
@@ -1098,14 +1024,14 @@ He backed away awkwardly, through the draped cloth over the doorway.  Stormfathe
 
 “I’m just wondering if it’s proper,” he said, then actually blushed—which was adorable. 
 
-
+### {Adolin} -> {Shallan}
 ## 127. Sentence 6503 of Oathbringer: 
 
 “You impressed him. ” She cocked her head.  “Are you wet?”
 
 Dalinar ran his hand through his hair.  Storms.  He hadn’t been embarrassed to stare down the crowd in the room, but before her he found himself blushing. 
 
-
+### {Dalinar} -> {Navani}
 ## 128. Sentence 7159 of Oathbringer: 
 
 It depends upon the angle from which you view it.  You will see, as you work with us, that I am right. ”
@@ -1116,14 +1042,14 @@ It depends upon the angle from which you view it.  You will see, as you work wit
 
 Shallan froze, then blushed furiously. 
 
-
+### {Shallan} -> {Mraize}
 ## 129. Sentence 8782 of Oathbringer: 
 
 She burst in on Vathah and his team, who sat inside playing cards by the light of a few spheres.  Poor Gaz sat on the chamber pot in a corner privy, and he yelped, pulling closed the cloth on the doorway. 
 
 Guess I should have anticipated that, Shallan thought, covering her blush by sucking in a burst of Stormlight. 
 
-
+### {Shallan} -> {Vathah}
 ## 130. Sentence 11439 of Oathbringer: 
 
 People will be curious, and a written account will save me from having to explain it all the time. ”
@@ -1134,40 +1060,40 @@ People will be curious, and a written account will save me from having to explai
 
 “I thought you were asking … I mean, in the highprince’s visions, there were women who were Knights Radiant, and with Brightness Shallan…” She blushed. 
 
-
+### {Lyn} -> {Kaladin}
 ## 131. Sentence 11995 of Oathbringer: 
 
 Truthwatcher! Is good name.  More people should watch truth, instead of lies. ”
 
 Renarin blushed. 
 
-
+### {Renarin} -> {Lunamor}
 ## 132. Sentence 13116 of Oathbringer: 
 
 Actually, it was a bit more complex than a doodle.  It was … kind of a full sketch of Kaladin’s face, with passionate eyes and a determined expression.  Jasnah had noticed a creationspren in the form of a small gemstone that had appeared on the top of her page, and Shallan blushed, shooing it away. 
 
-
+### {Shallan} -> {Jasnah}
 ## 133. Sentence 13222 of Oathbringer: 
 
 At the very least, she created far fewer for herself than Shallan did. 
 
 It was about this point that Shallan realized she’d missed a good fifteen minutes of the meeting, and had again lapsed in her note-taking.  Blushing furiously, she huddled up on her chair and did her best to remain focused for the rest of the meeting. 
 
-
+### {Jasnah} -> {Shallan}
 ## 134. Sentence 13468 of Oathbringer: 
 
 Red hastily pulled up another chair. 
 
 Ishnah settled herself, holding the wig to her chest.  She blushed deeply, but maintained some measure of poise, meeting the eyes of Vathah and his men. 
 
-
+### {Ishanh} -> {Shallan}
 ## 135. Sentence 13501 of Oathbringer: 
 
 “Next time, rough up your freehand some more.  The fingers gave you away; they aren’t the fingers of a laborer. ”
 
 Ishnah blushed, balling her freehand into a fist. 
 
-
+### {Ishnah} -> {Shallan}
 ## 136. Sentence 14366 of Oathbringer: 
 
 The prince … well, he often incited such reactions.  Discomforted stares. 
@@ -1176,7 +1102,7 @@ The prince … well, he often incited such reactions.  Discomforted stares.
 
 Several of the others chuckled.  Renarin blushed deeply, lowering his eyes farther. 
 
-
+### {Renarin} -> {Janala}
 ## 137. Sentence 14464 of Oathbringer: 
 
 That made a lot of sense.  Dalinar would need his Radiants to go do things, right? She needed to get away, just until she could figure things out.  Go somewhere … like on that mission to Kholinar? Wouldn’t they need someone who could sneak into the palace and activate the device?
@@ -1185,21 +1111,21 @@ That made a lot of sense.  Dalinar would need his Radiants to go do things, righ
 
 He blushed, but smiled. 
 
-
+### {Renarin} -> {Shallan}
 ## 138. Sentence 19871 of Oathbringer: 
 
 Her safehand bulged out from between the sleeve buttons, poking into the open right in front of not just the king, but Kaladin and Adolin. 
 
 Perfectly, horribly, incredibly mortifying.  She felt a deep blush come on, and shamespren dropped around her in a wave. 
 
-
+### {Shallan} -> {Court}
 ## 139. Sentence 19875 of Oathbringer: 
 
 These were like pieces of broken glass. 
 
 The men, of course, were more distracted by the position she’d gotten herself into.  She squawked, managed to take a Memory of the shamespren, and righted herself, blushing furiously and tucking her hand in her sleeve. 
 
-
+### {Shallan} -> {Court}
 ## 140. Sentence 21627 of Oathbringer: 
 
 “The persona … fled once you recognized me. ”
@@ -1210,14 +1136,14 @@ The men, of course, were more distracted by the position she’d gotten herself 
 
 He glanced at the hat, which she’d set on the table.  Shallan blushed. 
 
-
+### {Shallan} -> {Wit}
 ## 141. Sentence 24360 of Oathbringer: 
 
 “Oh, Adolin Kholin.  You are your father’s son.  I won’t do it again, all right?”
 
 He was blushing. 
 
-
+### {Adolin} -> {Shallan}
 ## 142. Sentence 24375 of Oathbringer: 
 
 A young woman, lighteyed and hanging out a window, hair drifting free, wearing only a nightgown with her hand tied in a pouch. 
@@ -1230,28 +1156,28 @@ A young woman, lighteyed and hanging out a window, hair drifting free, wearing o
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Adolin}
 ## 143. Sentence 27296 of Oathbringer: 
 
 “You’re in uniform, soldier.  Your tone is too familiar.  Is this how I taught you to act?”
 
 Adolin blushed, then put on a stronger face. 
 
-
+### {Adolin} -> {Dalinar}
 ## 144. Sentence 30514 of Oathbringer: 
 
 It’s about doing what is demanded of you, in serving the greater good.  You can’t just abandon responsibility because you feel like it. ”
 
 Azure glanced at Adolin, and he felt himself blush. 
 
-
+### {Adolin} -> {Azure}
 ## 145. Sentence 31408 of Oathbringer: 
 
 The room buzzed with a low hum of discussion and scratching reeds, concentrationspren dotting the air like ripples in the sky. 
 
 Jasnah strolled along the tables, looking through pages of translations.  As Navani entered, the bridgemen gathered around Renarin, who blushed, looking up from his own papers, which were covered in glyphs and numbers. 
 
-
+### {Renarin} -> {Bridgemen}
 ## 146. Sentence 32663 of Oathbringer: 
 
 Because she was afraid.  Could she invent someone who wasn’t afraid? Someone new, since Veil was broken, and had been since that failure in the Kholinar market …
@@ -1264,21 +1190,21 @@ She shook herself.  How long had she been sitting there? “I’m fine,” she s
 
 “All memories are bad,” she said immediately, then looked away, blushing. 
 
-
+### {Shallan} -> {Adolin}
 ## 147. Sentence 32916 of Oathbringer: 
 
 The way her posture shifted. 
 
 And the way that she seemed to melt upon seeing Kaladin, lips rising to a grin.  Blushing, she adopted a fond—even eager—expression. 
 
-
+### {Shallan} -> {Kaladin}
 ## 148. Sentence 34404 of Oathbringer: 
 
 She hovered down toward the queen’s guardsman—eyeing the spheres on his belt—but Rysn snatched her from the air. 
 
 Chiri-Chiri griped, buzzing her wings against Rysn’s hand and clicking.  Rysn blushed, but held tight. 
 
-
+### {Rysn} -> {Guardsmen}
 ## 149. Sentence 38781 of Oathbringer: 
 
 She pulled herself to her feet as Kaladin strode along the wall to meet with Dalinar.  What happened to his boots?
@@ -1289,4 +1215,4 @@ She pulled herself to her feet as Kaladin strode along the wall to meet with Dal
 
 Adolin blushed, then nodded and strode toward one of the stairwells down into the city. 
 
-
+### {Adolin} -> {Shallan}
