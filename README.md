@@ -13,7 +13,7 @@ The captain smiled, flamboyant eyebrows looking like streaks of light coming fro
 
 Shallan blushed, considering a response that wasn’t particularly proper. 
 
-{Shallan} -> {Tozbek}
+### {Shallan} -> {Tozbek}
 ## 2. Sentence 1658 of The Way of Kings: 
 
 She’d often fabricated silly versions of conversations to fill the mouths of people they could see, but not hear. 
@@ -22,21 +22,21 @@ That had established in her what her nurses had referred to as an “insolent st
 
 “Well,” Shallan said to the captain, blushing but still eager to speak, “I was just thinking this: You say that my beauty coaxed the winds to deliver us to Kharbranth with haste. 
 
-{Shallan} -> {Tozbek}
+### {Shallan} -> {Tozbek}
 ## 3. Sentence 1786 of The Way of Kings: 
 
 “Afraid so.  But you can’t go someplace a second time until you been there a first time, I reckon.  Everyone has to stand out sometime, so you might as well do it in a pretty way like yourself!”
 
 She’d had to get used to gentle flirtation from the sailors.  They were never too forward, and she suspected the captain’s wife had spoken to them sternly when she’d noticed how it made Shallan blush. 
 
-{Shallan} -> {Sailors}
+### {Shallan} -> {Sailors}
 ## 4. Sentence 1858 of The Way of Kings: 
 
 She kept the most valuable spheres she had in her safepouch, of course, which was buttoned to the inside of her left sleeve. 
 
 She handed the three chips to Yalb, who cocked his head.  She nodded at the porter, blushing, realizing that she’d reflexively used Yalb like a master-servant intermediary. 
 
-{Shallan} -> {Yalb}
+### {Shallan} -> {Yalb}
 ## 5. Sentence 2411 of The Way of Kings: 
 
 I would be far from the best you’d heard, but I’d also be far from the worst.  I know most historical ballads by heart. ”
@@ -49,7 +49,7 @@ I would be far from the best you’d heard, but I’d also be far from the worst
 
 Shallan blushed, but began to sing. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 6. Sentence 2429 of The Way of Kings: 
 
 “I had reason to believe you wanted to be a scholar, not a purveyor of superstitious nonsense. ”
@@ -60,28 +60,28 @@ Shallan blushed, but began to sing.
 
 Shallan blushed. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 7. Sentence 2456 of The Way of Kings: 
 
 The longer I live, the more I come to realize that it is the natural state of the human mind.  There are many who will strive to defend its sanctity and then expect you to be impressed with their efforts. ”
 
 Shallan blushed again. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 8. Sentence 3713 of The Way of Kings: 
 
 Namely, that of being dead.  For three hundred years. ”
 
 Shallan blushed. 
 
-
+### {Shallan} -> {Kabsal}
 ## 9. Sentence 4001 of The Way of Kings: 
 
 He stood there on the busy roadway, lit from above by a lantern burning yellow-orange, hands on his hips, white Thaylen eyebrows drooping along the sides of his face, bare-chested under his open vest.  That was a posture no citizen, no matter how high ranked, had ever taken at her father’s mansion. 
 
 “I did try to persuade her,” Shallan said, blushing. 
 
-{Shallan} -> {Yalb}
+### {Shallan} -> {Yalb}
 ## 10. Sentence 4142 of The Way of Kings: 
 
 So nice of you to give a poignant object lesson to accompany your brilliant metaphor.  Do you treat all of your customers this way?”
@@ -92,14 +92,14 @@ So nice of you to give a poignant object lesson to accompany your brilliant meta
 
 He blushed and stood. 
 
-{Bookshop Owner} -> {Shallan}
+### {Bookshop Owner} -> {Shallan}
 ## 11. Sentence 4245 of The Way of Kings: 
 
 I just figured he’d be trying to take you for as much as he could.  That’s why I asked around for who his biggest rival was and came back to help get him to be more reasonable. ”
 
 “It was that obvious I’d let myself be swindled?” she asked with a blush, the two of them walking out of the side street. 
 
-{Shallan} -> {Yalb}
+### {Shallan} -> {Yalb}
 ## 12. Sentence 4326 of The Way of Kings: 
 
 “I honestly didn’t want to disturb you. ”
@@ -108,7 +108,7 @@ I just figured he’d be trying to take you for as much as he could.  That’s w
 
 “I—” Shallan looked down, blushing furiously. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 13. Sentence 4781 of The Way of Kings: 
 
 “Son, you nearly cry each time someone is brought to us; you grind your teeth anxiously during even simple procedures.  What makes you think you could actually hurt someone?”
@@ -123,7 +123,7 @@ I just figured he’d be trying to take you for as much as he could.  That’s w
 
 Kal blushed and shrank back, then finally returned to his scrubbing. 
 
-{Kal} -> {Lirin}
+### {Kal} -> {Lirin}
 ## 14. Sentence 6162 of The Way of Kings: 
 
 “Earlier this morning, he told me he’d determined not to say anything around you. ”
@@ -136,7 +136,7 @@ Wit leaned in to Adolin.  “Have I told you about the night Prince Renarin and 
 
 “That’s a lie!” Renarin said, blushing. 
 
-{Renarin} -> {Wit}
+### {Renarin} -> {Wit}
 ## 15. Sentence 13226 of The Way of Kings: 
 
 “Beats knives at dawn, I suppose. ”
@@ -149,35 +149,35 @@ Wit leaned in to Adolin.  “Have I told you about the night Prince Renarin and 
 
 The other two glanced to the side, where Dunny had moved up close to listen.  The spindly youth jumped and blushed. 
 
-{Dunny} -> {Kaladin}
+### {Dunny} -> {Kaladin}
 ## 16. Sentence 13278 of The Way of Kings: 
 
 This particular chasm didn’t seem to have much in the way of salvage this time.  “I had begun thinking you were all as tone deaf as my father’s old axehound.  Ha!”
 
 Dunny blushed, but seemed to walk more confidently. 
 
-{Dunny} -> {Rock}
+### {Dunny} -> {Rock}
 ## 17. Sentence 14313 of The Way of Kings: 
 
 Keep her at arm’s length, Uncle.  She bites. ’”
 
 From the side, Navani sniffed, and Dalinar realized he hadn’t signaled that Navani was actually listening.  He blushed as Danlan continued speaking. 
 
-{Dalinar} -> {Navani}
+### {Dalinar} -> {Navani}
 ## 18. Sentence 15400 of The Way of Kings: 
 
 Jasnah walked past, wearing a sleek violet dress, followed by a parshman porter with a stack of books.  “I’ll try not to take it personally. ”
 
 Shallan winced, then blushed furiously. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 19. Sentence 15480 of The Way of Kings: 
 
 Consider.  You have trained yourself to do something very similar to what annoys you in the scholars: cleverness without thought behind it—intelligence, one might say, without a foundation of proper consideration. ” Jasnah turned a page.  “Errorgant, wouldn’t you say?”
 
 Shallan blushed. 
 
-{Shalan} -> {Jasnah}
+### {Shalan} -> {Jasnah}
 ## 20. Sentence 15627 of The Way of Kings: 
 
 “I’d be happy to draw your likeness. ”
@@ -190,7 +190,7 @@ He beamed as she stood, leaving her meal half eaten and gathering her things.  S
 
 Shallan blushed, feeling a fool for her enthusiasm. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 21. Sentence 15756 of The Way of Kings: 
 
 The king withdrew with his attendants, several parshmen entering to remove the table. 
@@ -199,7 +199,7 @@ The king withdrew with his attendants, several parshmen entering to remove the t
 
 Shallan blushed. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 22. Sentence 17205 of The Way of Kings: 
 
 If only Jasnah had been able to see the true beauty of our doctrine. ” He smiled, digging a thick book out of his bread basket.  “I really had hoped, originally, to be able to show her what I mean. ”
@@ -212,14 +212,14 @@ If only Jasnah had been able to see the true beauty of our doctrine. ” He smil
 
 He blushed, and she realized she’d said something that genuinely embarrassed him. 
 
-{Kabsal} -> {Shallan}
+### {Kabsal} -> {Shallan}
 ## 23. Sentence 18533 of The Way of Kings: 
 
 He could do the same with her. 
 
 Kal stood up and nodded to her.  She glanced at him, and blushed faintly, walking in with an old nurse in tow—a chaperone. 
 
-{Laral} -> {Kaladin}
+### {Laral} -> {Kaladin}
 ## 24. Sentence 20155 of The Way of Kings: 
 
 They’d eat the berries around the campfire and have a rather…interesting night. ”
@@ -230,7 +230,7 @@ They’d eat the berries around the campfire and have a rather…interesting nig
 
 She sighed.  “It’s a wonder they didn’t become known as birthberries, considering—” She blushed. 
 
-{Shallan} -> {Kabsal}
+### {Shallan} -> {Kabsal}
 ## 25. Sentence 20157 of The Way of Kings: 
 
 She sighed.  “It’s a wonder they didn’t become known as birthberries, considering—” She blushed. 
@@ -239,7 +239,7 @@ He laughed.  “That’s a good point!”
 
 “Stormfather,” she said, blushing further. 
 
-{Shallan} -> {Kabsal}
+### {Shallan} -> {Kabsal}
 ## 26. Sentence 20192 of The Way of Kings: 
 
 “Jam should not have lore or mythology.  It should be sweet, colorful, and delicious. ”
@@ -248,7 +248,7 @@ He laughed.  “That’s a good point!”
 
 “Brother Kabsal!” She blushed again. 
 
-{Shallan} -> {Kabsal}
+### {Shallan} -> {Kabsal}
 ## 27. Sentence 20197 of The Way of Kings: 
 
 “That wasn’t at all appropriate. ”
@@ -259,14 +259,14 @@ He laughed.  “That’s a good point!”
 
 “You have the colorful part right,” he said, obviously amused at her deep blush. 
 
-{Shallan} -> {Kabsal}
+### {Shallan} -> {Kabsal}
 ## 28. Sentence 20203 of The Way of Kings: 
 
 She’d once told herself that he was interested in her only in order to protect her soul, but that was getting more and more difficult to believe.  He stopped by at least once a week. 
 
 He chuckled at her embarrassment, but that only made her blush further. 
 
-{Shallan} -> {Kabsal}
+### {Shallan} -> {Kabsal}
 ## 29. Sentence 21584 of The Way of Kings: 
 
 Or…well, she is demanding.  I just don’t mind as much as she thinks I do. ”
@@ -277,12 +277,12 @@ She bit her lip, causing him to laugh.
 
 “What?” she demanded, blushing. 
 
-{Shallan} -> {Kabsal}
+### {Shallan} -> {Kabsal}
 ## 30. Sentence 21808 of The Way of Kings: 
 
 She walked down the dark hallway, Kabsal following with the lanterns.  Jasnah looked up appraisingly as Shallan entered their alcove, but did not ask why she’d taken so long.  Shallan found herself blushing as she gathered her drawing tools. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 31. Sentence 22346 of The Way of Kings: 
 
 And I mean to. ”
@@ -291,13 +291,12 @@ And I mean to. ”
 
 “I came to this war to get myself a Shardblade,” Moash said.  “And I still mean to do it, somehow. ” He blushed, then turned away. 
 
-{Moash} -> {Kaladin}
+### {Moash} -> {Kaladin}
 ## 32. Sentence 22752 of The Way of Kings: 
 
 Her safehand was still exposed.  Sleek, with tan skin, the fingers long and delicate.  Kaladin found himself staring at it and blushing. 
 
-{Whore} -> {Kaladin}
-
+### {Whore} -> {Kaladin}
 ## 33: Invalid use of the word blush. 
 
 ## 34. Sentence 23442 of The Way of Kings: 
@@ -306,7 +305,7 @@ Her safehand was still exposed.  Sleek, with tan skin, the fingers long and deli
 
 Shallan blushed, feeling more foolish and guilty. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 35. Sentence 23482 of The Way of Kings: 
 
 All others—heretic, Vorin, Ysperist, or Maakian—are equally closed-minded. ” She took her hand from the book, moving as if to stand up. 
@@ -317,14 +316,14 @@ Jasnah turned to her.
 
 “Kabsal,” Shallan said, blushing. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 36. Sentence 23530 of The Way of Kings: 
 
 “Absolve yourself? ‘I’m sorry I drove you to suicide.  Here’s some bread. ’”
 
 He blushed, looking down. 
 
-{Kabsal} -> {Shallan}
+### {Kabsal} -> {Shallan}
 ## 37. Sentence 30665 of The Way of Kings: 
 
 “Thinking back, I really should have been able to hate her.  But she was just so nice.  Though she wasn’t very… well…”
@@ -333,7 +332,7 @@ He blushed, looking down.
 
 “Clever,” Navani said.  She blushed, which was rare for her. 
 
-{Navani} -> {Dalinar}
+### {Navani} -> {Dalinar}
 ## 38. Sentence 125 of Words of Radiance: 
 
 It seemed obvious to her that Gavilar and Amaram had ducked out to find privacy for their discussion.  “This is the tiresome part of the feast, where the conversation grows louder but no smarter, and the company drunken. ”
@@ -346,7 +345,7 @@ Her father smiled.  “Is it terribly difficult for you?” he asked softly.  �
 
 She took it as the rebuke it was, and found herself blushing. 
 
-{Jasnah} -> {Gavilar}
+### {Jasnah} -> {Gavilar}
 ## 39. Sentence 642 of Words of Radiance: 
 
 Well, get to it. ” It was unlikely she’d be able to go through with this without the captain finding out anyway. 
@@ -355,7 +354,7 @@ Yalb grinned.  “What happened to you in Kharbranth? Your first trip with us, y
 
 Shallan hesitated, then found herself blushing. 
 
-{Shallan} -> {Yalb}
+### {Shallan} -> {Yalb}
 ## 40. Sentence 666 of Words of Radiance: 
 
 You just won’t let yourself remember them. 
@@ -366,7 +365,7 @@ You just won’t let yourself remember them.
 
 “I won’t be swimming,” Shallan said, blushing further. 
 
-{Shallan} -> {Tozbek}
+### {Shallan} -> {Tozbek}
 ## 41. Sentence 741 of Words of Radiance: 
 
 You were wise in bringing him to my attention. ”
@@ -381,14 +380,14 @@ Shallan smiled.  “You didn’t answer my question. ”
 
 Shallan blushed, as Jasnah stopped at one sheet of paper in the stack. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 42. Sentence 1136 of Words of Radiance: 
 
 She let them lower her farther until her legs were submerged in the frigid water.  Her skirt ballooned out in a most annoying way, and she actually had to step on the end of it—inside the loop—to prevent it from rising up about her waist and floating on the water’s surface as she submerged. 
 
 She wrestled with the fabric for a moment, glad the men above couldn’t see her blushing. 
 
-{Shallan} -> {Sailors}
+### {Shallan} -> {Sailors}
 ## 43. Sentence 1436 of Words of Radiance: 
 
 “He’s property. ”
@@ -399,7 +398,7 @@ Kaladin opened his mouth to object, but the other bridgemen jumped in first.
 
 “One of the team,” Hobber said.  “Give him the tattoo, or you won’t see a sphere from any of us. ” He blushed after he said it, glancing at Kaladin—who would be paying for all this, using spheres granted by Dalinar Kholin. 
 
-{Hobber} -> {Kaladin}
+### {Hobber} -> {Kaladin}
 ## 44. Sentence 1560 of Words of Radiance: 
 
 Stiff blue trousers and black boots polished to a shine.  A buttoned white shirt, only the edges of its collar and cuffs extending beyond the jacket, which came down to the waist and buttoned closed beneath the belt. 
@@ -408,21 +407,21 @@ Stiff blue trousers and black boots polished to a shine.  A buttoned white shirt
 
 Moash fixed his cuffs and actually blushed. 
 
-{Moash} -> {Kaladin}
+### {Moash} -> {Kaladin}
 ## 45. Sentence 1835 of Words of Radiance: 
 
 Cultivation, the god worshipped in the West, is a female deity that is an embodiment of nature and nature spren.  The various Voidspren, with their unseen lord—whose name changes depending on which culture we’re speaking of—evoke an enemy or antagonist.  The Stormfather, of course, is a strange offshoot of this, his theoretical nature changing depending on which era of Vorinism is doing the talking…”
 
 She trailed off.  Shallan blushed, realizing she’d looked away and had begun tracing a glyphward on her blanket against the evil in Jasnah’s words. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 46. Sentence 3205 of Words of Radiance: 
 
 Shallan pulled back, suddenly feeling as if she’d intruded upon an intimate moment.  Jasnah with her defenses down.  Shallan began to creep away, but a voice from the floor suddenly said, “Truth!”
 
 Startled, Jasnah looked up, eyes finding Shallan—who, of course, blushed furiously. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 47. Sentence 3322 of Words of Radiance: 
 
 A way to find evidence that might convince everyone. ”
@@ -433,50 +432,50 @@ Jasnah gave her another curt glance.  The ancient city was something Shallan had
 
 “You still blush too easily when confronted,” Jasnah noted. 
 
-{Shallan} -> {Jasnah}
+### {Shallan} -> {Jasnah}
 ## 48. Sentence 4532 of Words of Radiance: 
 
 She felt around in her safepouch.  The other spheres were still there, but the the sleeve was unbuttoned.  Had she done that? Had they peeked? She couldn’t suppress a blush at the thought. 
 
-{Shallan} -> {Tvlakv}
+### {Shallan} -> {Tvlakv}
 ## 49. Sentence 5736 of Words of Radiance: 
 
 Out here, though, she expected that swimmers were commonplace.  She had not expected them to be unclothed. 
 
 Rysn blushed furiously as a group of people ran past on the docklike shell outcropping, as bare as the day they were born. 
 
-{Rysn} -> {Nudist Reshi}
+### {Rysn} -> {Nudist Reshi}
 ## 50. Sentence 5743 of Words of Radiance: 
 
 Kylrm joined him.  “That’s another thing we don’t warn the newcomers about. ”
 
 Primitives, Rysn thought.  She shouldn’t blush so. 
 
-{Rysn} -> {Nudist Reshi}
+### {Rysn} -> {Nudist Reshi}
 ## 51. Sentence 6073 of Words of Radiance: 
 
 ‘Oh! Medicine! Of course we need medicine! Thank you for pointing that out.  I was just going to sit here and die. ’”
 
 Rysn blushed. 
 
-{Rysn} -> {Talik}
+### {Rysn} -> {Talik}
 ## 52. Sentence 6176 of Words of Radiance: 
 
 She felt numb.  Turned away, like a child demanding sweets.  She felt a furious blush consume her as she walked past the men and women preparing more bundles of fruit. 
 
-{Rysn} -> {Talik}
+### {Rysn} -> {Talik}
 ## 53. Sentence 9210 of Words of Radiance: 
 
 “Did my eyes mistake me? I saw a queen in the darkness.  Now I see a child. ”
 
 “Perhaps you saw what your conscience needed you to see,” Shallan said, tugging—unsuccessfully—on her arm.  She blushed. 
 
-{Shallan} -> {Vathah}
+### {Shallan} -> {Vathah}
 ## 54. Sentence 9819 of Words of Radiance: 
 
 Barely a sound.  I was standing here, looking out at the Plains and thinking to myself, and next I knew His Majesty was hanging right there, holding on for his life and cursing like a caravan worker. ” The guard blushed. 
 
-{Guard} -> {Kaladin}
+### {Guard} -> {Kaladin}
 ## 55. Sentence 9996 of Words of Radiance: 
 
 “Besides.  Brightness Shallan said our debts would be taken care of. ”
@@ -489,21 +488,21 @@ Barely a sound.  I was standing here, looking out at the Plains and thinking to 
 
 Gaz looked up, a blush rising on his scarred face, but Red just laughed. 
 
-{Gaz} -> {Shallan}
+### {Gaz} -> {Shallan}
 ## 56. Sentence 10023 of Words of Radiance: 
 
 “You seem happy to have been made a servant to the lighteyes again.  It’s a wonder your shirt isn’t torn up from all the crawling and scraping you’ve been doing. ”
 
 Gaz blushed again. 
 
-{Gaz} -> {Vathah}
+### {Gaz} -> {Vathah}
 ## 57. Sentence 11153 of Words of Radiance: 
 
 Her sword belt hung from a peg on the side of the seat, swaying to the rhythm of the chull’s gait.  “You know, kid, you get kind of mouthy when you let your mask down. ”
 
 Shallan blushed. 
 
-{Shallan} -> {Tyn}
+### {Shallan} -> {Tyn}
 ## 58. Sentence 11168 of Words of Radiance: 
 
 Almost a worker’s shirt, though of nicer material. 
@@ -512,7 +511,7 @@ Almost a worker’s shirt, though of nicer material.
 
 Shallan barely caught it.  She blushed at her clumsiness, then held it up toward the sun: a small vial with some dark liquid inside. 
 
-{Shallan} -> {Tyn}
+### {Shallan} -> {Tyn}
 ## 59. Invalid context. 
 
 ## 60. Sentence 11702 of Words of Radiance: 
