@@ -1,38 +1,14 @@
 texts = [open("The Way of Kings.txt", "r", encoding = "utf8").read(), open("Words of Radiance.txt", "r", encoding = "utf8").read(), open("Oathbringer.txt", "r", encoding = "utf8").read()]
-out = open("output.txt", "w+", encoding = "utf8")
-#text = text.translate({ord(c): None for c in ".?!,123‘’45()“”67:890;…'—-"}).split()
-shallan_blush = 0
-chars = ['abrial', 'abrobadar', 'abronai', 'adis', 'adolin kholin', 'adolin kholin', 'adrotagia', 'aesudan kholin', 'aesudan kholin', 'aharat', 'ahu', 'alabet', 'aladar', 'aladar', 'alakavish', 'alaward', 'alds', 'alidaughterhasweth', 'alim', 'allahn', 'almighty', 'almighty', 'altoki', 'amarams cook', 'amark', 'apara', 'apothecary', 'arclo', 'ardent of hornhollow', 'aric', 'arik', 'artmyrn', 'artmyrns wife', 'ashelem', 'ashertmarn', 'ashir', 'ashlv', 'aulam', 'aunak', 'av', 'avado', 'avaran', 'avena', 'axies the collector', 'axies the collector', 'azure', 'azure', 'baadomishram', 'bajerden', 'balat davar', 'barlesha lhan', 'barmest', 'bashin', 'battar', 'battar', 'baxil', 'beard', 'beautiful song', 'categorybeggars', 'beld', 'betha', 'bethab', 'bettam', 'bidlel', 'bila', 'bisig', 'black fisher', 'blightwind', 'blunt', 'bluth', 'bordin', 'boriar', 'brianlia', 'brightlord gevelmar', 'brightlord havar', 'brightlord lustow', 'brightlord morakotha', 'brightlord resi', 'brightlord roshone', 'brightlord seveks', 'brightlord sheler', 'brightlord tashlin', 'brightlord tavinar', 'brightness davar', 'brightness davar', 'brightness hasheh', 'brightness istow', 'brightness tavinar', 'caeb', 'cael', 'cali', 'cenn', 'chanada', 'chanarach', 'chanarach', 'chilinko', 'chivi', 'citylord of hornhollow', 'cob', 'colot', 'condwish', 'corberon', 'cord', 'coreb', 'corl', 'corvana', 'cultivation', 'cultivation', 'cyn', 'dabbid', 'daigonarthis', 'dalar', 'dalinar kholin', 'dalinar kholin', 'dalksi', 'dallet', 'dandos the oilsworn', 'danlan morakotha', 'danlan morakotha', 'davim', 'deedanor', 'deeli', 'delp', 'demid', 'derethil', 'dova', 'drehy', 'dukar', 'dunny', 'durk', 'dym', 'elhokar kholin', 'elhokar kholin', 'elit ruthar', 'ellista', 'elthal', 'elthebar', 'en', 'erraniv', 'eshava', 'eshonai', 'eshonai', 'eshonais mother', 'eth', 'ethid', 'evi kholin', 'evi kholin', 'evinor', 'evod markmaker', 'extes', 'eylita tavinar', 'fen rnamdi', 'fen rnamdi', 'fabrisan', 'falilar', 'falksi', 'fari', 'febrth', 'felt', 'female shardbearer', 'fia', 'fiksin', 'fin', 'fladm', 'fleet', 'frost', 'frost', 'gabrathin', 'gadol', 'gallam', 'gangnah', 'gare', 'gashash', 'gavarah', 'gavashaw', 'gavilar kholin', 'gavinor kholin', 'gawx', 'gaz', 'gaz', 'geranid', 'ghenna', 'gift', 'gitgeth', 'glys', 'glys', 'goshel', 'graves', 'gregorh', 'grump', 'gu', 'guyn', 'gvori', 'hab', 'habsant', 'hallaw', 'hammie', 'hanavanar', 'hariel', 'harkaylain', 'harl', 'harth', 'hashal', 'hashal', 'hasweth', 'hatham', 'hathams wife', 'hauka', 'hav', 'havar', 'havarah', 'havrom', 'heart of the revel', 'heb', 'helaran davar', 'hemadak', 'herdazian general', 'hesina', 'hessi', 'hmalka', 'hnanan', 'hobber', 'hoid', 'hoid', 'huio', 'huisi', 'huqin', 'ialai sadeas', 'ialai sadeas', 'ico', 'idolir', 'idrin', 'ilamar', 'inadara', 'inkima', 'invia', 'isasik shulin', 'ishar', 'ishar', 'ishikk', 'ishnah', 'ivis', 'ivory', 'ixil', 'iyatil', 'iyatil', 'jakamav', 'jakamav', 'jaks', 'jal mala', 'jam', 'jams father', 'janala lustow', 'jasnah kholin', 'jasnah kholin', 'jayla ruthar', 'jenet', 'jenin', 'jerono', 'jest', 'jevena', 'jezrien', 'jezrien', 'jochi', 'joret', 'joshor', 'jost', 'jushu davar', 'ka', 'kabsal', 'kabsal', 'kadash', 'kadasix', 'kaladin', 'kaladin', 'kalak', 'kalak', 'kalami', 'kalana', 'kalanor', 'kalishor', 'karavaniga', 'karm', 'katarotam', 'kaves', 'kaves kholin', 'kaza', 'kaza', 'kazilah', 'kdralk', 'kefha', 'khal', 'khals son', 'khav', 'khem', 'khen', 'kheni', 'khriss', 'khriss', 'ki', 'klade', 'kmakl', 'kmakra', 'koolf', 'koorm', 'korater', 'kumatiki', 'kuzodo', 'kylrm', 'ladent', 'lalai', 'lamaril', 'lanacin the surefooted', 'laral wistiow', 'laresh', 'leef', 'leshwi', 'leyten', 'lhan', 'lhanin', 'lift', 'lift', 'lifts mother', 'lin davar', 'lin davar', 'lirin', 'lirin', 'liss', 'litima', 'lomard', 'longshadow', 'lopen', 'lopens mother', 'loradar vamah', 'loradar vamah', 'luesh', 'lunamor', 'lunuanaki', 'lyn', 'lyn', 'maben', 'macob', 'madasa', 'maib', 'makal', 'makh', 'makkek', 'malan', 'malasha seveks', 'malata', 'malchin', 'malise gevelmar', 'malop', 'manaline', 'maps person', 'mara', 'marks', 'marri', 'mart', 'masterservant', 'matain', 'matal', 'maxin', 'may aladar', 'mayalaran', 'mayalaran', 'melishi', 'melu', 'mem', 'meridas amaram', 'meridas amaram', 'mesh', 'miasal', 'midnight mother', 'midnight mother', 'mik', 'miks mother', 'categorymilitary people', 'milp', 'moash', 'moash', 'moashs grandparents', 'moelach', 'molinar', 'moratel', 'mord', 'mraize', 'mraize', 'mrall', 'mrun', 'mungam', 'murk', 'mysterious man', 'nacomb gaval', 'nadris', 'nafti', 'naget', 'nakal', 'nakku', 'nale', 'nale', 'nales underlings', 'nall', 'nalma', 'nanhar', 'nanhel eltorv', 'nankhet', 'narm', 'nashan', 'natam', 'natata ved', 'navammis', 'navani kholin', 'navani kholin', 'nazedaughterkuzodo', 'nazh', 'nazh', 'ned', 'nelda', 'nergaoul', 'neturo', 'niali the just', 'nightblood', 'nightblood', 'nightwatcher', 'nightwatcher', 'nikliasorm', 'nissiquan', 'niter', 'nlent', 'nohadon', 'nohadon', 'noromin', 'notum', 'noura', 'nu ralik', 'nuatoma', 'numuhukumakiakiaialunamor', 'odium', 'odium', 'oileyes', 'ol whitehair', 'old man', 'old sullik', 'old tarn', 'oolelen', 'oroden', 'pai', 'paliah', 'paliah', 'palona', 'pama', 'parasaphi', 'pattern', 'pattern', 'pedin', 'peet', 'perethom', 'phendorana', 'pitt', 'placini', 'pom', 'categoryprofession', 'punio', 'puuli', 'puulis grandfather', 'radiant', 'radiant', 'ral', 'ralinor', 'rayse', 'reshephir', 'reshephir', 'red', 'redin', 'reesh', 'relis ruthar', 'rem', 'renarin kholin', 'renarin kholin', 'rencalt', 'reral makoram', 'restares', 'rez', 'rial', 'rider of storms', 'rien', 'rill', 'rilla', 'rillir roshone', 'rin', 'rind', 'rlain', 'rlain', 'rock', 'rock', 'rock ii', 'rocks family', 'rocks family', 'rod', 'roion', 'roion', 'roshones guard captain', 'rua', 'ruli', 'rushu', 'ruthar', 'rysn ftori', 'rysn ftori', 'sah', 'sakin', 'salinor eved', 'sani', 'categoryscientists', 'categoryscribe', 'sebarial', 'sebarial', 'seeli', 'shalash', 'shalash', 'shallan davar', 'shallan davar', 'categoryshardbearers', 'shaukadaughterhasweth', 'sheler', 'shen', 'shoren', 'sibling', 'sidin', 'sigzil', 'sigzil', 'simol', 'sinakua', 'sinbian', 'sjaanat', 'sjaanats spy', 'skar', 'song', 'sot', 'spark', 'sphere vault thief', 'star', 'categorystatus alive', 'categorystatus dead', 'categorystatus unknown', 'stick', 'stick', 'stine', 'stormfather', 'stormfather', 'sunmaker', 'swiftspren', 'syasikk', 'sylphrena', 'sylphrena', 'szeth', 'szeth', 'tadet', 'taffa', 'tag', 'taka', 'talak', 'talanor', 'talata', 'talatin', 'talenelelin', 'talenelelin', 'talik', 'tallan', 'tanakai', 'tanalan', 'tanavast', 'tanavast', 'tarah', 'taran', 'taravangian', 'taravangian', 'taravangians granddaughter', 'tarilar', 'tearim', 'teft', 'teft', 'tefts parents', 'teleb', 'telesh', 'temoo', 'teshav', 'tezim', 'thaidakar', 'thakka', 'thanadal', 'thaspic', 'thaylen woman', 'the archer', 'the blackthorn', 'the convict', 'the cook', 'the crier', 'the drummer brothers', 'the enemys champion', 'the foreigner captain', 'the girl who looked up', 'the girl who looked up', 'the judge', 'the little girl', 'the nobleman jailer', 'the prince of tashikk', 'the shopkeeper', 'the soulcaster', 'the stump', 'the stumps spren', 'the taker of secrets', 'the taker of secrets', 'the tattooist', 'the weeper', 'thinker', 'threshsonesan', 'thude', 'tibon', 'tien', 'tien', 'tifi', 'tift', 'tigzikk', 'timbre', 'timbres grandfather', 'tinalar', 'tiqqa', 'tlik', 'toh', 'ton', 'took', 'toravi', 'torfin', 'tormas', 'torol', 'torol sadeas', 'torol sadeas', 'tozbek', 'trapper', 'treff', 'tsa', 'tuaka', 'tuakalinacalminor', 'tukks', 'turash', 'tvlakv', 'ty', 'tyn', 'tyn', 'ulim', 'unoqua', 'ur', 'urchin', 'urv', 'uscri', 'vaceslv', 'vai', 'valam', 'valama', 'vallano', 'vandonas', 'vandonas', 'vao', 'varala', 'varanis', 'varas', 'varnali', 'varth', 'vartian', 'vath', 'vathah', 'vathe', 'vazrmeb', 'ved', 'vedekar perel', 'vedel', 'vedel', 'veil', 'veil', 'velalant', 'ven', 'venli', 'venli', 'vet', 'categoryviewpoint characters', 'vono', 'vstim', 'vstim', 'vun makak', 'vyre', 'vyre', 'warren', 'wikim davar', 'winnow', 'wistiow', 'wit', 'wmlak', 'wyndle', 'wyndle', 'wzmal', 'yaezir', 'yake', 'yalb', 'yalb', 'yanagawn', 'yelignar', 'yenev', 'yezriar', 'yis', 'yixli', 'ym', 'yokska', 'yokskas husband', 'yustara', 'zahel', 'zahel', 'zedzil', 'zeheb', 'zendaughtervath', 'zuln', 'syl', 'kal', 'szeth']
-chars = [a.split(" ")[0] for a in chars]
+out = open("README.md", "w+", encoding = "utf8")
+
+out.write("""## StormlightBlush
+A directory for counting the amount of blushes in the Stormlight Archive (currently books 1 to 3, since I haven't read book 4 yet and don't want spoilers)\n\n""")
 
 c = 0
+a = 1
 for text in texts:
     text = text.translate({ord(c): None for c in "1234567890"}).split(".")
-    """
-    dic = {}
 
-    for word in text:
-        if word.lower() not in dic:
-            dic[word.lower()] = 1
-        elif word in dic:
-            dic[word.lower()] += 1
-
-    amounts = [dic[word.lower()] for word in dic]
-    amounts.sort(reverse = True)
-
-    ordered = []
-    for num in amounts:
-        for time in dic:
-            if dic[time] == num:
-                ordered.append(time)
-                dic[time] += 1
-                break
-
-    for word in ordered:
-        out.write(word + ": " + str(dic[word] - 1) + "\n",)
-    """
-
-    a = 1
     for s in range(len(text)):
         if "blush" in text[s] or "Blush" in text[s]:
             string = text[s-1] + ". " + text[s] + ". "
@@ -41,10 +17,16 @@ for text in texts:
                 string = text[s-i] + ". " + string
                 i += 1
 
+            string = text[s-i] + ". " + string
+            i += 1
+            while "”" in text[s-i+1]:
+                string = text[s-i] + ". " + string
+                i += 1
+                
             while string[0] == " " or string[0] == "\n":
                 string = string[1:]
 
             title = "The Way of Kings" if not c else "Words of Radiance" if c == 1 else "Oathbringer"
-            out.write(f"{a}. Sentence {s} of {title}: \n\n{string}\n\n\n")
+            out.write(f"# {a}. Sentence {s} of {title}: \n\n{string}\n\n\n")
             a += 1
     c += 1
